@@ -1,7 +1,8 @@
 # Code for Learned ISTA with Error-Based Thresholding for Adaptive Sparse Coding
 
-The paper can be found [here](https://ieeexplore.ieee.org/abstract/document/10446361)
-This repository is implemented on the base of [ALISTA](https://github.com/VITA-Group/ALISTA)
+The paper can be found [here](https://ieeexplore.ieee.org/abstract/document/10446361).
+
+This repository is implemented on the base of [ALISTA](https://github.com/VITA-Group/ALISTA).
 
 
 ## Execution
